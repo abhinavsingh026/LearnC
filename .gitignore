@@ -1,0 +1,2 @@
+#ignore c compiler .exe files
+*.exe

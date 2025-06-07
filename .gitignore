@@ -1,2 +1,2 @@
-#ignore c compiler .exe files
-*.exe
+#ignore c compiled .exe files
+**/*.exe
